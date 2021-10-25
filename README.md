@@ -1,24 +1,5 @@
-# README
+# Rails & React CRUD App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple full-stack application, with Ruby-on-Rails running the backend-server & React on the client-side.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Check it out on [Heroku](https://gentle-lowlands-74873.herokuapp.com/).
